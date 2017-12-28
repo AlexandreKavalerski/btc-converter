@@ -3,6 +3,7 @@ const chai = require('chai');
 const sinon = require('sinon');
 const sinonChai = require('sinon-chai');
 const chalk = require('chalk');
+const ora = require('ora');
 
 const expect = chai.expect;
 
